@@ -2,41 +2,45 @@
 
 **`Desenvolvedor FullStack`**
 
-Estudante de Engenharia de Software (Bolsista ProUni) e tecnólogo em Desenvolvimento de Sistemas, com 4 anos de experiência prática em desenvolvimento de software e paixão por tecnologia desde a infância. Possuo experiência sólida em Python (KivyMD), PHP (Laravel, Symfony, CodeIgniter), C# (Windows Forms), HTML e CSS. Habilidade em criar sistemas de automação, aplicações GUI e APIs, com foco em desenvolvimento de soluções eficientes e inovadoras. Atualmente desenvolvendo uma [rede social de currículos em Laravel](https://github.com/allan-rcos/resume-cv.
+Estudante de Engenharia de Software (Bolsista ProUni) e tecnólogo em Desenvolvimento de Sistemas, com 4 anos de experiência prática em desenvolvimento de software e paixão por tecnologia desde a infância. Possuo experiência sólida em Python (KivyMD), PHP (Laravel, Symfony, CodeIgniter), C# (Windows Forms), HTML e CSS. Habilidade em criar sistemas de automação, aplicações GUI e APIs, com foco em desenvolvimento de soluções eficientes e inovadoras. Atualmente desenvolvendo uma [rede social de currículos em Laravel](https://github.com/allan-rcos/resume-cv).
 
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
-[![Python](https://custom-icon-badges.demolab.com/badge/-Python-201515?style=flat&logo=python)](https://github.com/allan-rcos/agendamd)
-[![PHP](https://custom-icon-badges.demolab.com/badge/-PHP-201515?style=flat&logo=php)](https://github.com/allan-rcos/hello-server)
-[![Synfony](https://img.shields.io/badge/-Synfony-201515?style=flat&logo=symfony&logoColor=FFFFFF)](https://github.com/allan-rcos/sistema-de-vendas)
-[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-201515?style=flat&logo=codeigniter)](https://github.com/allan-rcos/my-cafe)
-[![Laravel](https://img.shields.io/badge/-Laravel-201515?style=flat&logo=laravel)](https://github.com/allan-rcos/resume-cv)
-[![JQuery](https://img.shields.io/badge/-JQuery-201515?style=flat&logo=jquery)](https://github.com/allan-rcos/resume-cv)
-[![TailwindCss](https://img.shields.io/badge/-Tailwind-201515?style=flat&logo=tailwindcss&logoColor=06B6D4)](https://github.com/allan-rcos/sistema-de-vendas)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-201515?style=flat&logo=bootstrap&logoColor=7952B3)](https://github.com/allan-rcos/my-cafe)
-[![React](https://img.shields.io/badge/-React-201515?style=flat&logo=react)](#)
-[![Vue](https://img.shields.io/badge/-Vue-201515?style=flat&logo=vuedotjs&logoColor=4FC08D)](#)
+[![Python](https://img.shields.io/badge/Python-201515?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/allan-rcos/agendamd)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/allan-rcos/hello-server)
+[![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)](https://github.com/allan-rcos/sistema-de-vendas)
+[![CodeIgniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)](https://github.com/allan-rcos/my-cafe)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/allan-rcos/resume-cv)
+[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/allan-rcos/resume-cv)
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/allan-rcos/resume-cv)
+[![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/allan-rcos/sistema-de-vendas)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/allan-rcos/my-cafe)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](#)
 
 **Utilidades**
 
-[![Insomnia](https://img.shields.io/badge/-Insomnia-201515?style=flat&logo=insomnia)](#)
-[![Postman](https://img.shields.io/badge/-Postman-201515?style=flat&logo=postman)](#)
+[![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#)
 
 **DevOps**
 
-[![Git](https://img.shields.io/badge/-Git-201515?style=flat&logo=git)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-201515?style=flat&logo=github)](#)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-201515?style=flat&logo=bitbucket)](#)
-[![Docker](https://img.shields.io/badge/-Docker-201515?style=flat&logo=docker)](#)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](#)
 
 **Ferramentas de desenvolvimento**
 
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-201515?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
-[![JetBrains](https://img.shields.io/badge/-JetBrains-201515?style=flat&logo=jetbrainsa&logoColor=FFFFFF)](#)
-[![Figma](https://img.shields.io/badge/-Figma-201515?style=flat&logo=figma&logoColor=007ACC)](#)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](#)
+[![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)](#)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 
 **Databases**
 
