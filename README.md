@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=allan-rcos&color=201515)
 # &#60;allan-rcos name="Ricardo Állan"/&#62;
 
 **`Desenvolvedor FullStack`**
@@ -49,6 +50,7 @@ Estudante de Engenharia de Software (Bolsista ProUni) e tecnólogo em Desenvolvi
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](#)
 
 ## Onde me encontrar
 
